@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: robohack-2026-epfl
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: <3.13,>=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: lerobot[feetech,smolvla]>=0.5.1
+
+# robohack-2026-epfl
+
+
+COM 4 = /dev/ttyS3 = leader
+COM 5 = /dev/ttyS4 = follower

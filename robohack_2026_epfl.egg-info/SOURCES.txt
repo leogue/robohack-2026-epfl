@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+robohack_2026_epfl.egg-info/PKG-INFO
+robohack_2026_epfl.egg-info/SOURCES.txt
+robohack_2026_epfl.egg-info/dependency_links.txt
+robohack_2026_epfl.egg-info/requires.txt
+robohack_2026_epfl.egg-info/top_level.txt

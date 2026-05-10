@@ -1,0 +1,1 @@
+lerobot[feetech,smolvla]>=0.5.1
